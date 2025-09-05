@@ -70,5 +70,3 @@ console.log(resultado);
 O projeto já possui cobertura de testes automatizados utilizando Jest. O relatório pode ser visualizado na pasta `coverage/lcov-report/index.html` após rodar `npm test`.
 
 ---
-
-Desenvolvido para fins
